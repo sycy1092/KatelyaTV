@@ -327,11 +327,6 @@
       "name": "淘片资源",
       "is_adult": false
     },
-    "hongniuzy3": {
-      "api": "https://www.hongniuzy3.com/api.php/provide/vod",
-      "name": "红牛资源",
-      "is_adult": false
-    },
     "xsd_sdzyapi": {
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
       "name": "索尼-闪电资源",
