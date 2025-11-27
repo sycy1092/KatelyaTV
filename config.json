@@ -480,11 +480,6 @@
       "name": "索尼-闪电资源",
       "is_adult": false
     },
-    "jyzyapi_provide": {
-      "api": "https://jyzyapi.com/provide/vod",
-      "name": "金鹰资源采集网",
-      "is_adult": false
-    },
     "fczy888": {
       "api": "https://api.fczy888.me/api.php/provide/vod",
       "name": "蜂巢片库",
@@ -544,6 +539,11 @@
       "api": "https://www.qiqidys.com/api.php/provide/vod/",
       "name": "七七影视",
       "is_adult": false
-    }
+    },
+    "jyzyapi_provide": {
+      "api": "https://jyzyapi.com/provide/vod",
+      "name": "金鹰资源采集网",
+      "is_adult": false
+    },
   }
 }
